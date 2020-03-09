@@ -1,12 +1,16 @@
 # HighGunung-Engine
 
-##GUARDIAN ANGEL
+## GUARDIAN ANGEL
 me-return allrt dengan memeriksa node's geo-location according to seted geolocation parameter berbentuk polygon. Terhubung dengan whatsappAUTOpost.py via socket communication untuk membroadcast distress-message ke semua petugas
 ```
 guardianAngel.py 
 ```
+## Visualisasi Telemetry dan Dashboard
+Menggunakan Node-red, dapat diakses dakam saru network via browser. 
+### Node-red work-env
+![](https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/Node-red_flow.jpg)
 
-##Gmail API python clent library
+## Gmail API python clent library
 ```
 pip.exe install google-api-python-client
 ```
