@@ -14,7 +14,7 @@ Menggunakan Node-red, dapat diakses dakam saru network via browser. Terhubung la
 #### Node-red work-env
 ![](https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/Node-red_flow.jpg)
 #### Node Telemetry
-!{}(https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/nodeTelemetry-dashboard.jpg)
+![](https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/nodeTelemetry-dashboard.jpg)
 
 
 
