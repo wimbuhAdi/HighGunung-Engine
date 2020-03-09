@@ -5,10 +5,14 @@ me-return allrt dengan memeriksa node's geo-location according to seted geolocat
 ```
 guardianAngel.py 
 ```
+
+
 ## Visualisasi Telemetry dan Dashboard
-Menggunakan Node-red, dapat diakses dakam saru network via browser. 
+Menggunakan Node-red, dapat diakses dakam saru network via browser. Terhubung langsung ke TTN sehingga data yang masuk dari node langsung di visualisasikan ke browser. 
 ### Node-red work-env
 ![](https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/Node-red_flow.jpg)
+
+
 
 ## Gmail API python clent library
 ```
