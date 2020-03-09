@@ -1,6 +1,6 @@
 # HighGunung-Engine
 
-## GUARDIAN ANGEL
+## Guardian Angel
 me-return allrt dengan memeriksa node's geo-location according to seted geolocation parameter berbentuk polygon. Terhubung dengan whatsappAUTOpost.py via socket communication untuk membroadcast distress-message ke semua petugas
 ```
 guardianAngel.py 
@@ -12,7 +12,7 @@ Menggunakan Node-red, dapat diakses dakam saru network via browser. Terhubung la
 #### Visualisasi realtime Node
 ![](https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/visualisasi-node.jpg)
 #### Node-red work-env
-![](https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/Node-red_flow.jpg =250x250)
+![](https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/Node-red_flow.jpg | width=100)
 #### Node Telemetry
 ![](https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/nodeTelemetry-dashboard.jpg)
 
