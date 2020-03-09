@@ -8,7 +8,7 @@ guardianAngel.py
 
 
 ## Visualisasi Telemetry dan Dashboard
-Menggunakan Node-red, dapat diakses dakam saru network via browser. Terhubung langsung ke TTN sehingga data yang masuk dari node langsung di visualisasikan ke browser. 
+Menggunakan Node-red local server yang dapat diakses dalam satu network via browser. Terhubung langsung ke TTN sehingga data yang masuk dari node langsung di visualisasikan ke browser. 
 ### Node-red work-env
 <img src=https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/Node-red_flow.jpg width="520">
 
