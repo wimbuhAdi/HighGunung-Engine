@@ -1,13 +1,13 @@
 # HighGunung-Engine
 
 ## Guardian Angel
-me-return allert dengan memeriksa node's geo-location according to seted geolocation parameter berbentuk polygon. Terhubung dengan whatsappAUTOpost.py via socket communication untuk membroadcast distress-message ke semua petugas
+me-return allert dengan memeriksa node's geo-location according to seted geolocation parameter berbentuk polygon. Terhubung dengan `WhatsappServer` via socket communication untuk membroadcast distress-message ke semua petugas
 ```
 guardianAngel.py 
 ```
 
 ## Lihat GuardianAngel dan WhatsappServer Bereksi
-Video ini menampilkan module `GuardianAngel`, `WhatsappServer`, dan integrasi TheThingsNetwork via flow `Node-Red` bereaksi terhadap telemetri yang dikirimkan realtime oleh node-Lora. Sistem secara otomatis mengirimkan **pemberitahuan darurat** ke semua kontak penting di whatsapp
+Video ini menampilkan module `GuardianAngel`, `WhatsappServer`, dan integrasi `TheThingsNetwork` via flow `Node-Red` bereaksi terhadap telemetri yang dikirimkan realtime oleh node-Lora. Sistem secara otomatis mengirimkan **pemberitahuan darurat** ke semua kontak penting di whatsapp
 
 [![Alt text](https://img.youtube.com/vi/sA308gRTwHI/0.jpg)](https://www.youtube.com/watch?v=sA308gRTwHI)
 
