@@ -6,6 +6,11 @@ me-return allrt dengan memeriksa node's geo-location according to seted geolocat
 guardianAngel.py 
 ```
 
+## Lihat GuardianAngel dan WhatsappServer Bereksi
+Video ini menampilkan module GuardianAngel, WhatsappServer, dan integrasi TheThingsNetwork via Node-Red bereaksi terhadap telemetri yang dikirimkan realtime oleh node-Lora. Sistem secara otomatis mengirimkan pemberitahuan darurat ke semua kontak penting di whatsapp
+
+[![Alt text](https://img.youtube.com/vi/sA308gRTwHI/0.jpg)](https://www.youtube.com/watch?v=sA308gRTwHI)]
+
 
 ## Visualisasi Telemetry dan Dashboard
 Menggunakan Node-red local server yang dapat diakses dalam satu network via browser. Terhubung langsung ke TTN sehingga data yang masuk dari node langsung di visualisasikan ke browser. 
