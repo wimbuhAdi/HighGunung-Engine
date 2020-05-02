@@ -7,7 +7,7 @@ Video ini menampilkan module `GuardianAngel`, `WhatsappServer`, dan integrasi `T
 
 
 ## Guardian Angel
-me-return allert dengan memeriksa node's geo-location according to seted geolocation parameter berbentuk polygon. Terhubung dengan `WhatsappServer` via socket communication untuk membroadcast distress-message ke semua petugas
+me-return allert dengan memeriksa node's geo-location according to seted geolocation parameter berbentuk polygon. Terhubung dengan `WhatsappServer` via MQTT untuk membroadcast distress-message ke semua petugas
 ```
 guardianAngel.py 
 ```
