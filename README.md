@@ -31,4 +31,3 @@ Menggunakan Node-red local server yang dapat diakses dalam satu network via brow
 </p>
 
 
-[Article reading](https://blog.mailtrap.io/send-emails-with-gmail-api/#How_to_make_your_app_send_emails_with_Gmail_API)    [google guide](https://developers.google.com/gmail/api/quickstart/python)
