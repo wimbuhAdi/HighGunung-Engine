@@ -26,7 +26,7 @@ Menggunakan Node-red local server yang dapat diakses dalam satu network via brow
 
 ### Visualisasi realtime Node dan Node Telemetry
 <p align="center">
-  <img src="https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/visualisasi-node2.jpg" alt="Size Limit CLI" width="250">
+  <img src="https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/visualisasi-node2.jpg" alt="Size Limit CLI" width="270">
   <img src="https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/nodeTelemetry-dashboard.jpg " alt="Size Limit CLI" width="350">
 </p>
 
