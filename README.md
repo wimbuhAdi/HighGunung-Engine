@@ -1,6 +1,5 @@
 # HighGunung-Engine
-#### Informasi Teoritis, Teknis dan Praktis
-Lihat [wiki page](https://github.com/wimbuhAdi/HighGunung-Engine/wiki) untuk informasi lebih lengkap
+#### Informasi Teoritis, Teknis dan Praktis Lihat [wiki page](https://github.com/wimbuhAdi/HighGunung-Engine/wiki) untuk informasi lebih lengkap
 
 
 ## Lihat GuardianAngel dan WhatsappServer Beraksi
