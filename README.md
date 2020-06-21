@@ -5,10 +5,9 @@
 ## Lihat GuardianAngel dan WhatsappServer Beraksi
 Video ini menampilkan module `GuardianAngel`, `WhatsappServer`, dan integrasi `TheThingsNetwork` via flow `Node-Red` bereaksi terhadap telemetri yang dikirimkan realtime oleh node-Lora. Sistem secara otomatis mengirimkan **pemberitahuan darurat** ke semua kontak penting di whatsapp
 <p align="center">
-  <img src="https://img.youtube.com/vi/sA308gRTwHI/0.jpg)](https://www.youtube.com/watch?v=sA308gRTwHI" alt="Size Limit CLI" width="750">
+  [![Alt text](https://img.youtube.com/vi/sA308gRTwHI/0.jpg)](https://www.youtube.com/watch?v=sA308gRTwHI)
 </p>
 
-[![Alt text](https://img.youtube.com/vi/sA308gRTwHI/0.jpg)](https://www.youtube.com/watch?v=sA308gRTwHI)
 
 
 ## Guardian Angel
