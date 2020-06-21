@@ -23,19 +23,14 @@ Menggunakan Node-red local server yang dapat diakses dalam satu network via brow
 <p align="center">
   <img src="https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/Node-red_flow.jpg" alt="Size Limit CLI" width="750">
 </p>
-
-
 ### Visualisasi realtime Node
-<img src=https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/visualisasi-node2.jpg width="520">
-
-
+<p align="center">
+  <img src="https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/visualisasi-node2.jpg" alt="Size Limit CLI" width="350">
+</p>
 ### Node Telemetry
-<img src=https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/nodeTelemetry-dashboard.jpg width="520">
+<p align="center">
+  <img src="https://github.com/wimbuhAdi/HighGunung-Engine/blob/master/Node-red/nodeTelemetry-dashboard.jpg " alt="Size Limit CLI" width="350">
+</p>
 
 
-
-## Gmail API python clent library
-```
-pip.exe install google-api-python-client
-```
 [Article reading](https://blog.mailtrap.io/send-emails-with-gmail-api/#How_to_make_your_app_send_emails_with_Gmail_API)    [google guide](https://developers.google.com/gmail/api/quickstart/python)
