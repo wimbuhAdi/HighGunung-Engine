@@ -2,7 +2,7 @@
 #### Informasi Teoritis, Teknis dan Praktis Lihat [wiki page](https://github.com/wimbuhAdi/HighGunung-Engine/wiki) untuk informasi lebih lengkap
 
 ## Uji Lapangan
-[![Alt text](https://img.youtube.com/vi/sA308gRTwHI/0.jpg)](https://youtu.be/bPAsnNStATQ)
+[![Alt text](https://img.youtube.com/vi/bPAsnNStATQ/0.jpg)](https://youtu.be/bPAsnNStATQ)
 
 
 ## Lihat GuardianAngel dan WhatsappServer Beraksi
