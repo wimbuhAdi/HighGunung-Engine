@@ -1,13 +1,15 @@
 # HighGunung-Engine
 #### Informasi Teoritis, Teknis dan Praktis Lihat [wiki page](https://github.com/wimbuhAdi/HighGunung-Engine/wiki) untuk informasi lebih lengkap
 
+## Uji Lapangan
+[![Alt text](https://img.youtube.com/vi/sA308gRTwHI/0.jpg)](https://youtu.be/bPAsnNStATQ)
+
 
 ## Lihat GuardianAngel dan WhatsappServer Beraksi
 Video ini menampilkan module `GuardianAngel`, `WhatsappServer`, dan integrasi `TheThingsNetwork` via flow `Node-Red` bereaksi terhadap telemetri yang dikirimkan realtime oleh node-Lora. Sistem secara otomatis mengirimkan **pemberitahuan darurat** ke semua kontak penting di whatsapp.
 
 
 [![Alt text](https://img.youtube.com/vi/sA308gRTwHI/0.jpg)](https://www.youtube.com/watch?v=sA308gRTwHI)
-
 
 
 ## Guardian Angel
